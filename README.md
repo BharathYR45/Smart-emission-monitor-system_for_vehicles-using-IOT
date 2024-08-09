@@ -45,10 +45,8 @@ The system is designed with the following architecture:
 - Configure the Blynk app with the correct authentication tokens for remote monitoring.
 
 ### Final Implimenetation
- ![Alt text](URL or path to image)
 
-<img src="URL or path to image" alt="Alt text" width="500" height="300">
-
+<img src="implimentation2.jpg" alt="Alt text" width="500" height="300">
 
 ### Configuration
 - Set the gas concentration thresholds within the code according to local environmental standards.
