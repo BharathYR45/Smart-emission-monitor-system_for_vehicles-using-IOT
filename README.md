@@ -44,8 +44,13 @@ The system is designed with the following architecture:
 - Upload the provided code to the ESP32 microcontroller.
 - Configure the Blynk app with the correct authentication tokens for remote monitoring.
 
+### Final Implimenetation
+(path/to/implimentation2.png)
+
 ### Configuration
 - Set the gas concentration thresholds within the code according to local environmental standards.
 - Test the system by simulating different emission levels to ensure proper functionality.
+
+
 
 
